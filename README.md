@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D1B2&center=true&vCenter=true&width=600&lines=console.log('Hello%2C+World!+%F0%9F%91%8B');;From+Nador+to+China+to+the+web+%F0%9F%8C%8D;PHP+%E2%86%92+Laravel+%E2%86%92+MERN+%F0%9F%9A%80;Building+real-time+apps+with+WebSockets+%E2%9A%A1;Open+to+opportunities+%F0%9F%92%BC" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D1B2&center=true&vCenter=true&width=600&lines=console.log(%22Hello+World!%22)+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;PHP+%E2%86%92+Laravel+%E2%86%92+MERN+%F0%9F%9A%80;Building+real-time+apps+with+WebSockets+%E2%9A%A1;Open+to+internship+opportunities+%F0%9F%92%BC" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ const hibatallah = {
   origin: "Nador, Morocco 🇲🇦",
   studiedIn: "Hangzhou, China 🇨🇳 (China Jiliang University)",
   languages: ["Arabic 🇲🇦", "English", "Turkish 🇹🇷", "French 🇫🇷", "Chinese (learning) 🇨🇳"],
-  currentlyLearning: ["React", "Node.js", "Express", "MongoDB", "WebSockets"],
+  currentlyLearning: ["React", "Node.js", "Express", "MongoDB + Mongoose", "WebSockets"],
   superpower: "Learning fast and adapting to any stack",
   funFact: "I code in 5 languages, and I speak a few too 😄",
   lookingFor: "An internship or junior role where I can build and grow"
@@ -36,12 +36,12 @@ const hibatallah = {
 ## 🗺️ My Journey (commit history of my life)
 
 ```text
-2020 ─ 2023  ●  Baccalauréat — Physical Sciences, French option
-2023 ─ 2024  ●  Computer Science & AI + Chinese language @ China Jiliang University 🇨🇳
-2025 ─ 2026  ●  YouCode Year 1 — HTML, CSS, JS, PHP, SQL, Laravel, Git, Docker
-2026 ─ 2027  ●  YouCode Year 2 — MERN specialty ⚛️  ← I am here
-2026         ●  Web dev internship @ Highness — SaaS live chat with Laravel Reverb ⚡
-Next         ●  ??? (maybe you 👀)
+2020 ─ 2023      ●  Baccalauréat — Physical Sciences, French option
+2023 ─ 2024      ●  Computer Science & AI + Chinese language @ China Jiliang University 🇨🇳
+2025 ─ 2026      ●  YouCode Year 1 — HTML, CSS, JS, PHP, SQL, Laravel, Git, Docker
+05.2026 ─ 08.2026 ●  Web dev internship @ Highness — SaaS live chat with Laravel Reverb ⚡
+2026 ─ 2027      ●  YouCode Year 2 — MERN specialty ⚛️  ← I am here
+Next             ●  ??? (maybe you 👀)
 ```
 
 ---
@@ -50,7 +50,7 @@ Next         ●  ??? (maybe you 👀)
 
 **🎨 Frontend**
 
-![HTML](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,jquery,figma)
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,jquery,figma)
 
 **⚙️ Backend**
 
@@ -64,15 +64,17 @@ Next         ●  ??? (maybe you 👀)
 
 ![Tools](https://skillicons.dev/icons?i=git,github,docker,npm,vscode,postman)
 
+---
 
 ## 🎯 Currently
 
-- 🔭 Studing the **MERN stack** at YouCode
+- 🔭 Studying the **MERN stack** at YouCode
 - ⚡ Exploring **real-time apps** (WebSockets, Socket.io)
 - 🌱 Improving my **clean code** and **Git workflow** habits
 - 🌐 Practicing **Chinese** 汉语 and English every week
 
 ## 💬 Ask me about
+
 Laravel, Reverb & WebSockets, MERN, Agile/Scrum, or life as a student abroad 🌏
 
 ---
